@@ -1,0 +1,4 @@
+{
+  "MONGO_URI": "mongodb+srv://mathiasck:Xtrmck123@cluster0.9jzms.mongodb.net/udemy_social_media?retryWrites=true&w=majority",
+  "JWT_SECRET": "mySecretToken"
+}
